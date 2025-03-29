@@ -1,4 +1,4 @@
-module kafkaGolangProducer
+module kafkaGolang
 
 go 1.23.4
 

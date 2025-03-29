@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/google/uuid"
 	"github.com/sirupsen/logrus"
-	k "kafkaGolangProducer/internal/kafka"
+	k "kafkaGolang/internal/kafka"
 	"time"
 )
 
